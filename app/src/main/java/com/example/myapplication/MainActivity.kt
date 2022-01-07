@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var a = 23;
         var b = 24;
+        var c = 25;
     }
 }
