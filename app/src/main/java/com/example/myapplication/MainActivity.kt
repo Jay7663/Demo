@@ -14,5 +14,9 @@ class MainActivity : AppCompatActivity() {
         var s = 10;
         var x = 11;
         var z = 10;
+        var y = 11;
+        var squash = 123;
+        var squash123 = 123;
+
     }
 }
