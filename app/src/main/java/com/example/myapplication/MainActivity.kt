@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         var b = 24;
         var c = 25;
         var s = 10;
+        var x = 11;
+        var z = 10;
     }
 }
